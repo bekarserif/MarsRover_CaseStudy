@@ -51,8 +51,7 @@ to run the program. And use
 ```bash
     dotnet test
 ```
-to run tests.
-command. OR
+command to run tests. OR
 
 Run the program via Visual Studio
 
