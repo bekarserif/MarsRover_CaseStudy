@@ -44,8 +44,14 @@ My solution for the HepsiBurada's MarsRover Case Study. It is a dotnet Core cons
 ## Installation and Usage
 Clone repository to your locale. Head to MarsRover_CaseStudy folder. Use
 ```bash
+    dotnet build 
     dotnet run Program.cs   
 ```
+to run the program. And use
+```bash
+    dotnet test
+```
+to run tests.
 command. OR
 
 Run the program via Visual Studio
